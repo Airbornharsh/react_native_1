@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Error: Unable to resolve module ./index.android from /home/airbornharsh/Programming/App Development/Languages/React-Native/react_native_1/.: <br><br>None of these files exist:<br> &nbsp;* index.android(.native|.android.js|.native.js|.js|.android.jsx|.native.jsx|.jsx|.android.json|.native.json|.json|.android.ts|.native.ts|.ts|.android.tsx|.native.tsx|.tsx)<br> &nbsp;* index.android/index(.native|.android.js|.native.js|.js|.android.jsx|.native.jsx|.jsx|.android.json|.native.json|.json|.android.ts|.native.ts|.ts|.android.tsx|.native.tsx|.tsx)<br> &nbsp; &nbsp;at ModuleResolver.resolveDependency (/home/airbornharsh/Programming/App Development/Languages/React-Native/react_native_1/node_modules/metro/src/node-haste/DependencyGraph/ModuleResolution.js:114:15)<br> &nbsp; &nbsp;at DependencyGraph.resolveDependency (/home/airbornharsh/Programming/App Development/Languages/React-Native/react_native_1/node_modules/metro/src/node-haste/DependencyGraph.js:277:43)<br> &nbsp; &nbsp;at /home/airbornharsh/Programming/App Development/Languages/React-Native/react_native_1/node_modules/metro/src/lib/transformHelpers.js:169:21<br> &nbsp; &nbsp;at Server._resolveRelativePath (/home/airbornharsh/Programming/App Development/Languages/React-Native/react_native_1/node_modules/metro/src/Server.js:1045:12)<br> &nbsp; &nbsp;at async Server.requestProcessor [as _processBundleRequest] (/home/airbornharsh/Programming/App Development/Languages/React-Native/react_native_1/node_modules/metro/src/Server.js:449:37)<br> &nbsp; &nbsp;at async Server._processRequest (/home/airbornharsh/Programming/App Development/Languages/React-Native/react_native_1/node_modules/metro/src/Server.js:383:7)</pre>
+</body>
+</html>
