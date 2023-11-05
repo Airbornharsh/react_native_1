@@ -1,27 +1,42 @@
-com.helloworld.app-jetified-emoji2-views-helper-1.0.0-0 /home/airbornharsh/.gradle/caches/transforms-3/0ea8bc22ad4ebc71e19e62d6deb40a83/transformed/jetified-emoji2-views-helper-1.0.0/res
-com.helloworld.app-fragment-1.3.6-1 /home/airbornharsh/.gradle/caches/transforms-3/177c698be397eb145127cfb5353a1679/transformed/fragment-1.3.6/res
-com.helloworld.app-jetified-emoji2-1.0.0-2 /home/airbornharsh/.gradle/caches/transforms-3/223146ef33e3aa619e8b04649706e145/transformed/jetified-emoji2-1.0.0/res
-com.helloworld.app-jetified-appcompat-resources-1.4.1-3 /home/airbornharsh/.gradle/caches/transforms-3/30de096d5ba1553f19f74e52c1ed5c94/transformed/jetified-appcompat-resources-1.4.1/res
-com.helloworld.app-jetified-react-android-0.72.6-debug-4 /home/airbornharsh/.gradle/caches/transforms-3/620147001f23a61fa54dd66c3890cad2/transformed/jetified-react-android-0.72.6-debug/res
-com.helloworld.app-core-1.7.0-5 /home/airbornharsh/.gradle/caches/transforms-3/75e4635b66fa4e4e84e71b52579837ce/transformed/core-1.7.0/res
-com.helloworld.app-jetified-tracing-1.1.0-6 /home/airbornharsh/.gradle/caches/transforms-3/816103dcaf20cc3449d44e7aef228ddc/transformed/jetified-tracing-1.1.0/res
-com.helloworld.app-lifecycle-viewmodel-2.3.1-7 /home/airbornharsh/.gradle/caches/transforms-3/8c6c5513f4a20550a4fe8e18d90a0b23/transformed/lifecycle-viewmodel-2.3.1/res
-com.helloworld.app-jetified-drawee-2.6.0-8 /home/airbornharsh/.gradle/caches/transforms-3/8ebb0988b078846cf36008451821bdf1/transformed/jetified-drawee-2.6.0/res
-com.helloworld.app-jetified-savedstate-1.1.0-9 /home/airbornharsh/.gradle/caches/transforms-3/98e95a351ab9bde9d0757d3ba2da6dd9/transformed/jetified-savedstate-1.1.0/res
-com.helloworld.app-sqlite-framework-2.2.0-10 /home/airbornharsh/.gradle/caches/transforms-3/aed854fb12aa7a4f325a5318b63d5aa8/transformed/sqlite-framework-2.2.0/res
-com.helloworld.app-appcompat-1.4.1-11 /home/airbornharsh/.gradle/caches/transforms-3/b14585e0ae3314e7a64bac79062dab1c/transformed/appcompat-1.4.1/res
-com.helloworld.app-jetified-autofill-1.1.0-12 /home/airbornharsh/.gradle/caches/transforms-3/b2c399022120a5a16a836a433ff38c79/transformed/jetified-autofill-1.1.0/res
-com.helloworld.app-jetified-startup-runtime-1.0.0-13 /home/airbornharsh/.gradle/caches/transforms-3/cd3884f773085f1dee1d35041010e253/transformed/jetified-startup-runtime-1.0.0/res
-com.helloworld.app-lifecycle-runtime-2.4.0-14 /home/airbornharsh/.gradle/caches/transforms-3/cf8c141c143f512e5d69201abc198297/transformed/lifecycle-runtime-2.4.0/res
-com.helloworld.app-jetified-lifecycle-process-2.4.0-15 /home/airbornharsh/.gradle/caches/transforms-3/d5d05479173d466a6bd0989b3b3e5ef4/transformed/jetified-lifecycle-process-2.4.0/res
-com.helloworld.app-sqlite-2.2.0-16 /home/airbornharsh/.gradle/caches/transforms-3/dc58477293179deb391b12c4cba55b48/transformed/sqlite-2.2.0/res
-com.helloworld.app-jetified-flipper-0.182.0-17 /home/airbornharsh/.gradle/caches/transforms-3/e13f88164840fe641a466d05cd8edac7/transformed/jetified-flipper-0.182.0/res
-com.helloworld.app-jetified-annotation-experimental-1.1.0-18 /home/airbornharsh/.gradle/caches/transforms-3/ea88610a3c8be13450373fa73372379b/transformed/jetified-annotation-experimental-1.1.0/res
-com.helloworld.app-pngs-19 /home/airbornharsh/Programming/App Development/Languages/React-Native/react_native_1/android/app/build/generated/res/pngs/debug
-com.helloworld.app-resValues-20 /home/airbornharsh/Programming/App Development/Languages/React-Native/react_native_1/android/app/build/generated/res/resValues/debug
-com.helloworld.app-rs-21 /home/airbornharsh/Programming/App Development/Languages/React-Native/react_native_1/android/app/build/generated/res/rs/debug
-com.helloworld.app-mergeDebugResources-22 /home/airbornharsh/Programming/App Development/Languages/React-Native/react_native_1/android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
-com.helloworld.app-mergeDebugResources-23 /home/airbornharsh/Programming/App Development/Languages/React-Native/react_native_1/android/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
-com.helloworld.app-merged_res-24 /home/airbornharsh/Programming/App Development/Languages/React-Native/react_native_1/android/app/build/intermediates/merged_res/debug
-com.helloworld.app-debug-25 /home/airbornharsh/Programming/App Development/Languages/React-Native/react_native_1/android/app/src/debug/res
-com.helloworld.app-main-26 /home/airbornharsh/Programming/App Development/Languages/React-Native/react_native_1/android/app/src/main/res
+com.helloworld.app-jetified-autofill-1.1.0-0 /home/airbornharsh/.gradle/caches/transforms-3/0fad410c9b1b50a924306ee4f92852e1/transformed/jetified-autofill-1.1.0/res
+com.helloworld.app-jetified-drawee-2.6.0-1 /home/airbornharsh/.gradle/caches/transforms-3/1046c17c2c3917e40629ef9027413f04/transformed/jetified-drawee-2.6.0/res
+com.helloworld.app-jetified-appcompat-resources-1.5.0-2 /home/airbornharsh/.gradle/caches/transforms-3/14b476f7a9d7531bae8b9a5b840db88a/transformed/jetified-appcompat-resources-1.5.0/res
+com.helloworld.app-lifecycle-runtime-2.5.0-3 /home/airbornharsh/.gradle/caches/transforms-3/269bb738ed9816b6e9bc866be959e027/transformed/lifecycle-runtime-2.5.0/res
+com.helloworld.app-jetified-savedstate-1.2.0-4 /home/airbornharsh/.gradle/caches/transforms-3/295355d0a6b0eaf1a21d5899ce421522/transformed/jetified-savedstate-1.2.0/res
+com.helloworld.app-coordinatorlayout-1.2.0-5 /home/airbornharsh/.gradle/caches/transforms-3/2e3046c32c4ca2458d1e1a0e276c2ab4/transformed/coordinatorlayout-1.2.0/res
+com.helloworld.app-transition-1.2.0-6 /home/airbornharsh/.gradle/caches/transforms-3/314dce03b8e702e4a1e2b55553a0436d/transformed/transition-1.2.0/res
+com.helloworld.app-jetified-viewpager2-1.0.0-7 /home/airbornharsh/.gradle/caches/transforms-3/4df13a9208ed5437e4e22f2987036992/transformed/jetified-viewpager2-1.0.0/res
+com.helloworld.app-jetified-tracing-1.1.0-8 /home/airbornharsh/.gradle/caches/transforms-3/517632fa5dfe8b4d6378bc98da765852/transformed/jetified-tracing-1.1.0/res
+com.helloworld.app-jetified-activity-1.5.0-9 /home/airbornharsh/.gradle/caches/transforms-3/53523c95722a97094ca9fe9b41516fc7/transformed/jetified-activity-1.5.0/res
+com.helloworld.app-jetified-lifecycle-process-2.4.1-10 /home/airbornharsh/.gradle/caches/transforms-3/53c8ae919c75698e9ac52f649b87a58d/transformed/jetified-lifecycle-process-2.4.1/res
+com.helloworld.app-appcompat-1.5.0-11 /home/airbornharsh/.gradle/caches/transforms-3/54c121dd3ce0e839f5fe943324be4e8b/transformed/appcompat-1.5.0/res
+com.helloworld.app-constraintlayout-2.0.1-12 /home/airbornharsh/.gradle/caches/transforms-3/628e26d64ae2957377d6886c0b78ff02/transformed/constraintlayout-2.0.1/res
+com.helloworld.app-cardview-1.0.0-13 /home/airbornharsh/.gradle/caches/transforms-3/7f76698895c8b25457a6f08ca9195f76/transformed/cardview-1.0.0/res
+com.helloworld.app-jetified-react-android-0.72.6-debug-14 /home/airbornharsh/.gradle/caches/transforms-3/8cc11e7eda44ded01e69279cc7cfd427/transformed/jetified-react-android-0.72.6-debug/res
+com.helloworld.app-swiperefreshlayout-1.1.0-15 /home/airbornharsh/.gradle/caches/transforms-3/9b19bdb23477cf0e6d94d340a0db9c92/transformed/swiperefreshlayout-1.1.0/res
+com.helloworld.app-sqlite-framework-2.2.0-16 /home/airbornharsh/.gradle/caches/transforms-3/a50c0997a66a778e602f393888b15ae0/transformed/sqlite-framework-2.2.0/res
+com.helloworld.app-jetified-annotation-experimental-1.1.0-17 /home/airbornharsh/.gradle/caches/transforms-3/a6b660731f44c4d1e16465f54d97f5be/transformed/jetified-annotation-experimental-1.1.0/res
+com.helloworld.app-sqlite-2.2.0-18 /home/airbornharsh/.gradle/caches/transforms-3/b52771d638d4333543e7a57997d665eb/transformed/sqlite-2.2.0/res
+com.helloworld.app-jetified-startup-runtime-1.1.1-19 /home/airbornharsh/.gradle/caches/transforms-3/b7059142b596bf7c788f4b7976b264c7/transformed/jetified-startup-runtime-1.1.1/res
+com.helloworld.app-jetified-core-ktx-1.8.0-20 /home/airbornharsh/.gradle/caches/transforms-3/b8717b08c2285422f2379154c474501c/transformed/jetified-core-ktx-1.8.0/res
+com.helloworld.app-material-1.9.0-21 /home/airbornharsh/.gradle/caches/transforms-3/b9331100fd3f5e8e57155e212019cfda/transformed/material-1.9.0/res
+com.helloworld.app-drawerlayout-1.1.1-22 /home/airbornharsh/.gradle/caches/transforms-3/c4735def0a89689ead9fec6353bc40aa/transformed/drawerlayout-1.1.1/res
+com.helloworld.app-fragment-1.3.6-23 /home/airbornharsh/.gradle/caches/transforms-3/c862e5cedab79e21bd3d0dfcb25db8f8/transformed/fragment-1.3.6/res
+com.helloworld.app-jetified-flipper-0.182.0-24 /home/airbornharsh/.gradle/caches/transforms-3/ca67dbdc5e5eead6cb32a039687c9682/transformed/jetified-flipper-0.182.0/res
+com.helloworld.app-jetified-lifecycle-viewmodel-savedstate-2.5.0-25 /home/airbornharsh/.gradle/caches/transforms-3/cb49f68db4f3f534908902d7bce578a0/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.0/res
+com.helloworld.app-lifecycle-viewmodel-2.5.0-26 /home/airbornharsh/.gradle/caches/transforms-3/cf316e1a4d750c6cb776331c6d2ec0bc/transformed/lifecycle-viewmodel-2.5.0/res
+com.helloworld.app-core-1.8.0-27 /home/airbornharsh/.gradle/caches/transforms-3/e02c68a966221197bfb023554ba2132f/transformed/core-1.8.0/res
+com.helloworld.app-lifecycle-livedata-core-2.5.0-28 /home/airbornharsh/.gradle/caches/transforms-3/e1628139139db241b5bbf20df8159d9a/transformed/lifecycle-livedata-core-2.5.0/res
+com.helloworld.app-recyclerview-1.1.0-29 /home/airbornharsh/.gradle/caches/transforms-3/f4cd9c27639177732adfab3c6a4d8648/transformed/recyclerview-1.1.0/res
+com.helloworld.app-jetified-emoji2-views-helper-1.2.0-30 /home/airbornharsh/.gradle/caches/transforms-3/f9f6b3316998df4b5c2f4302beaa1916/transformed/jetified-emoji2-views-helper-1.2.0/res
+com.helloworld.app-jetified-emoji2-1.2.0-31 /home/airbornharsh/.gradle/caches/transforms-3/fdaefecb45aaaaf4b40b1f068d8c7f65/transformed/jetified-emoji2-1.2.0/res
+com.helloworld.app-pngs-32 /home/airbornharsh/Programming/App Development/Languages/React-Native/react_native_1/android/app/build/generated/res/pngs/debug
+com.helloworld.app-resValues-33 /home/airbornharsh/Programming/App Development/Languages/React-Native/react_native_1/android/app/build/generated/res/resValues/debug
+com.helloworld.app-rs-34 /home/airbornharsh/Programming/App Development/Languages/React-Native/react_native_1/android/app/build/generated/res/rs/debug
+com.helloworld.app-mergeDebugResources-35 /home/airbornharsh/Programming/App Development/Languages/React-Native/react_native_1/android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.helloworld.app-mergeDebugResources-36 /home/airbornharsh/Programming/App Development/Languages/React-Native/react_native_1/android/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.helloworld.app-merged_res-37 /home/airbornharsh/Programming/App Development/Languages/React-Native/react_native_1/android/app/build/intermediates/merged_res/debug
+com.helloworld.app-debug-38 /home/airbornharsh/Programming/App Development/Languages/React-Native/react_native_1/android/app/src/debug/res
+com.helloworld.app-main-39 /home/airbornharsh/Programming/App Development/Languages/React-Native/react_native_1/android/app/src/main/res
+com.helloworld.app-packaged_res-40 /home/airbornharsh/Programming/App Development/Languages/React-Native/react_native_1/node_modules/react-native-safe-area-context/android/build/intermediates/packaged_res/debug
+com.helloworld.app-packaged_res-41 /home/airbornharsh/Programming/App Development/Languages/React-Native/react_native_1/node_modules/react-native-screens/android/build/intermediates/packaged_res/debug
