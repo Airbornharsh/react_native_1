@@ -3,34 +3,32 @@ import React from "react";
 import { View, Text } from "react-native";
 
 import { NativeStackNavigationProp } from "@react-navigation/native-stack";
-
-type RootStackParamList = {
-  Home: undefined;
-  About: undefined;
-};
+import { RootStackParamList } from "../Types/PropType";
 
 type HomeScreenNavigationProp = NativeStackNavigationProp<
   RootStackParamList,
-  "Home"
+  "About"
 >;
 
 type Props = {
   navigation: HomeScreenNavigationProp;
 };
 
-const Home = ({ navigation }: Props) => {
+const AboutScreen = ({ route, navigation }: any) => {
+  const name = route.params?.name;
+
   return (
-    <View style={{ flex: 1, alignItems: "center", justifyContent: "center" }}>
+    <View>
       <Text
         style={{ color: "black" }}
         onPress={() => {
-          navigation.navigate("About");
+          navigation.navigate(name, { name: "About" });
         }}
       >
-        Home
+        {name}
       </Text>
     </View>
   );
 };
 
-export default Home;
+export default AboutScreen;

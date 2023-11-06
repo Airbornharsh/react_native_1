@@ -6,7 +6,7 @@
     "android": "react-native run-android",
     "ios": "react-native run-ios",
     "lint": "eslint .",
-    "dev": "react-native start",
+    "dev": "yarn && react-native start",
     "test": "jest"
   },
   "dependencies": {

@@ -1,14 +1,14 @@
-#Sun Nov 05 09:02:51 IST 2023
-path.4=14/classes.dex
+#Sun Nov 05 11:14:01 IST 2023
+path.4=0/classes.dex
 path.3=11/classes.dex
 path.2=0/classes.dex
-path.1=0/classes.dex
+path.1=14/classes.dex
 path.5=classes2.dex
 path.0=classes.dex
-base.4=/home/airbornharsh/Programming/App Development/Languages/React-Native/react_native_1/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex
+base.4=/home/airbornharsh/Programming/App Development/Languages/React-Native/react_native_1/android/app/build/intermediates/dex/debug/mergeLibDexDebug/0/classes.dex
 base.3=/home/airbornharsh/Programming/App Development/Languages/React-Native/react_native_1/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/11/classes.dex
 base.2=/home/airbornharsh/Programming/App Development/Languages/React-Native/react_native_1/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
-base.1=/home/airbornharsh/Programming/App Development/Languages/React-Native/react_native_1/android/app/build/intermediates/dex/debug/mergeLibDexDebug/0/classes.dex
+base.1=/home/airbornharsh/Programming/App Development/Languages/React-Native/react_native_1/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex
 base.0=/home/airbornharsh/Programming/App Development/Languages/React-Native/react_native_1/android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
 renamed.3=classes4.dex
 renamed.2=classes3.dex
